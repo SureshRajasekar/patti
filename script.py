@@ -1,6 +1,6 @@
-print("script 1 from main changed LINE 1")#Old Code
-print("script 1 from main changed LINE 2")#Old Code
-print("script 1 from main changed LINE 3")#Old Code
+print("script 1 from main changed LINE 1")#new Code
+print("script 1 from main changed LINE 2")#new Code
+print("script 1 from main changed LINE 3")#new Code
 print("script 1 from main changed LINE 4")#Old Code
 print("script 1 from main changed LINE 5")#Old Code
 
